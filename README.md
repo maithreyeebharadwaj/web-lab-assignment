@@ -13,8 +13,8 @@ How to Submit your work
     That's it! Now, you have a fork of the original [BMSIT-CSE-2014/web-lab-assignment](https://github.com/BMSIT-CSE-2014/web-lab-assignment.git) repository.
 
 - You need to clone the repository to your local machine to made the changes
-  - Here a nice guide by Github on cloning the repository [cloning repository ](https://help.github.com/articles/cloning-a-repository/)
 
+  - Here a nice guide by Github on cloning the repository [cloning repository ](https://help.github.com/articles/cloning-a-repository/)
 
 - Once clone make the changes as needed, dont forget to commite the changes to the git
   - Create a new folder for yourself prefer you name as folder name and save your work under/inside it.
