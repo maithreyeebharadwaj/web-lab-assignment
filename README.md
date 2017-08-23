@@ -17,7 +17,7 @@ How to Submit your work
   - Here a nice guide by Github on cloning the repository [cloning repository ](https://help.github.com/articles/cloning-a-repository/)
 
 - Once clone make the changes as needed, dont forget to commite the changes to the git
-  - Create a new folder for yourself prefer you name as folder name and save your work under/inside it.
+  - Create a new folder for yourself prefer you name as folder name (avoide the use capital letters in folder / directory name) and save your work under/inside it.
 
   - For home page or the first page which you wants to come up if someone visit your site save that page as index.html or index.htm
 
